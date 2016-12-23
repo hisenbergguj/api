@@ -1,0 +1,13 @@
+{
+    "name": "hisenbergguj/api",
+    "description": "To access the REST API",
+    "type": "seminars",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Hisenbergguj\\Api\\": "src/"
+        }
+    }
+}
